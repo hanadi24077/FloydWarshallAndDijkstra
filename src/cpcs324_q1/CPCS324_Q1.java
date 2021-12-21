@@ -1,6 +1,12 @@
 
 package cpcs324_q1;
+/* 
+Hanadi abdulrahim alsulami
+Alyaa Alkhiamiy 
+Afnan Abdullah Albayti
 
+
+*/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
